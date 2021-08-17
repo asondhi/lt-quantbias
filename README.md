@@ -12,5 +12,5 @@
 - Each simulations script outputs results in an .RData file.
 - Using a computing node with 36 cores, these simulations should run in a few hours; on a normal desktop, they may need to be run overnight.
 - The RData results used in the paper are stored in the results directory.
-- The Rmd file paper_figures.Rmd reads in the RData file and generates the figures used in the paper.
+- The Rmd file paper_figures.Rmd reads in the RData files and generates the figures used in the paper.
 
